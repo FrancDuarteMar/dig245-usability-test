@@ -1,2 +1,49 @@
 
 /* css */
+
+body{
+    background: #023047;
+}
+
+.header{
+    text-align: center;
+    font-size: 4em;
+}
+
+.white-text{
+    color: #ffffff;
+}
+
+.black-text{
+    color:#000000;
+}
+
+.content{
+    margin-top: 15px;
+}
+
+.left-content{
+    background: #4F4F4F;
+    border-radius: 10px;
+}
+
+.right-content{
+    background: #EF1DA8;
+    border-radius: 10px;
+}
+
+.center-content{
+    background: #8ECAE6;
+    border-radius: 10px;
+    width: 100%;
+}
+
+img{
+    /* position: absolute; */
+    width: auto;
+    width: 60%;
+    height: 80%;
+    margin-top: 3%;
+    align-self: center;
+    /* margin: 3 10 30 10; */
+}
